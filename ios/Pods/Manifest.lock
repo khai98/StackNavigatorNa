@@ -1,0 +1,25 @@
+PODS:
+  - React (0.11.0):
+    - React/Core (= 0.11.0)
+  - React/Core (0.11.0)
+  - RNGestureHandler (1.0.15):
+    - React
+
+DEPENDENCIES:
+  - RNGestureHandler (from `../node_modules/react-native-gesture-handler`)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - React
+
+EXTERNAL SOURCES:
+  RNGestureHandler:
+    :path: "../node_modules/react-native-gesture-handler"
+
+SPEC CHECKSUMS:
+  React: ab1a2e21deb34965c38328d5ec40cc7d12c6050a
+  RNGestureHandler: 14c09a7361c272efea8f7f3799142c893a6a4485
+
+PODFILE CHECKSUM: 1650d1c8199d66ad28143b9cdf7a53f59fb20178
+
+COCOAPODS: 1.6.0
